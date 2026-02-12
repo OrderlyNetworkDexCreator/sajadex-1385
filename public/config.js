@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/i/communities/2021511485273596111/",
   "VITE_SEO_SITE_NAME": "SajaDex",
   "VITE_SEO_SITE_DESCRIPTION": "K-stock perp - dex can trade specially on K-stocks",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/sajadex-1385/",
+  "VITE_SEO_SITE_URL": "https://sajadex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
